@@ -1,0 +1,10 @@
+      //Copy and use this Handler ok
+      
+    // module.exports = {
+    // name: "command name",
+    // aliases: null,
+    // category: "category",
+    // description: "Command Description",
+    // usage: "usage",
+    // accessableby: "bla bla bla",
+    // run: async (client, message, args) => {
